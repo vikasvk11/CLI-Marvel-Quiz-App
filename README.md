@@ -1,6 +1,5 @@
 # **Marvel Quiz App**
-## A CLI app
-### `Node.js`
+## A CLI app based on `Node.js`
 ---
 ## Description
 This app is for the Marvel fans out there to test your knowledge about the Marvel Cinematic Universe aka **MCU**.
